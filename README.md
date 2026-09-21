@@ -8,6 +8,7 @@ Welcome to my personal GitHub page!
 ### Minecraft
 #### Mods
 - [Eofitg Vision](https://github.com/eofitg/EofitgVision); [Wiki-ZH](./docs/EofitgVision/README.md) 
+
   _A utility mod for 1.8.9. It was a public repo, but went private thus the only thing you can check is the wiki/manual now._
 
 #### Tools
@@ -17,6 +18,7 @@ Welcome to my personal GitHub page!
 ## Fork Projects
 ### Minecraft
 - [TabStats](https://github.com/eofitg/TabStats) – _A 1.8.9 Hypixel forge mod made for stat checking directly into your tablist!_
+  
   _Displays Player's Hypixel Statistics in Tab; old one is no longer available cuz that api update hypxiel did in 2024 :<_
 
 ### Slight Changes
