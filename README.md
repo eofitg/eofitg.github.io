@@ -10,7 +10,7 @@ Welcome to my personal GitHub page!
 > _WARNING most of these notes were written with Chinese_
 
 - [Notepad - 备忘录/笔记本](https://eofitg.github.io/Notepad/)
-- [Study-Journal - 学习笔记](https://github.com/eofitg/Study-Journal)
+- [Study-Journal - 学习笔记](https://eofitg.github.io/Study-Journal/)
 
 ## My Projects
 ### Minecraft
