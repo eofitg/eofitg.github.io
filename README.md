@@ -4,6 +4,14 @@ Hi! I'm eofitg, also known as eo!
 
 Welcome to my personal GitHub page!
 
+## My Documents
+### Personal Studying Notes
+
+> _WARNING most of these notes were written with Chinese_
+
+- [Notepad - 备忘录/笔记本](https://eofitg.github.io/Notepad/)
+- [Study-Journal - 学习笔记](https://github.com/eofitg/Study-Journal)
+
 ## My Projects
 ### Minecraft
 #### Mods
