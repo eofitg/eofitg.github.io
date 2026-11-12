@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
 title: eofitg, starts here.
 description: Now I have my own github page as well!
+markdown: kramdown
