@@ -15,7 +15,7 @@ Welcome to my personal GitHub page!
 ## My Projects
 ### Minecraft
 #### Mods
-- [Eofitg Vision](https://github.com/eofitg/EofitgVision); [Wiki-ZH](./docs/EofitgVision/README.md) 
+- [Eofitg Vision](https://github.com/eofitg/EofitgVision); [Manual-ZH](https://eofitg.github.io/EofitgVision-Manual/) 
 
   _A utility mod for 1.8.9. It was a public repo, but went private thus the only thing you can check is the wiki/manual now._
 
