@@ -1,8 +1,6 @@
-# eofitg.github.io
+# Hi! I'm eofitg, AKA eo!
 
-Hi! I'm eofitg, also known as eo!
-
-Welcome to my personal GitHub page!
+# Welcome to my GitHub page!
 
 ## My Documents
 ### Personal Studying Notes
