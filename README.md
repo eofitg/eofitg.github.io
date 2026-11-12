@@ -1,4 +1,4 @@
-# Hi, I'm eofitg (aka eo).
+<h1 style="text-align: left;">Hi, I'm eofitg (aka eo).</h1>
 
 ## Projects
 
