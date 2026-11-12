@@ -38,7 +38,7 @@
 
 ## Documents
 
-> ⚠️ **WARNING**: Most of these notes were written in Chinese.
+> ⚠️ **WARNING**: Most of the notes were written in Chinese.
 
 - [Notepad - 备忘录/笔记本](https://eofitg.github.io/Notepad/)
 - [Study-Journal - 学习笔记](https://eofitg.github.io/Study-Journal/)
