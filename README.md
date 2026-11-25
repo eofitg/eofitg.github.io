@@ -4,7 +4,7 @@
 
 ## Projects
 
-### Minecraft Mods
+### Minecraft Mods – `Java` `Forge/Fabric`
 
 - [Eofitg Vision](https://github.com/eofitg/EofitgVision); [Manual-ZH](https://eofitg.github.io/EofitgVision-Manual/) 
 
@@ -34,19 +34,19 @@ and [TraceIt](https://github.com/eofitg/TraceIt), [SprintMod](https://github.com
 
 ### Minecraft Tools
 
-- [Texture Pack Graying](https://github.com/eofitg/Texture-Pack-Graying)
+- [Texture Pack Graying](https://github.com/eofitg/Texture-Pack-Graying) – `Python`
    
   _A grayscaling tool for Minecraft 1.8.9 texture packs._
 
-- [Texture Pack Cleaner](https://github.com/eofitg/Texture-Pack-Cleaner)
+- [Texture Pack Cleaner](https://github.com/eofitg/Texture-Pack-Cleaner) – `Python`
    
   _Remove files that are the same as original or meaningless in a custom texture pack._ (1.8.9 only)
 
-- [BiggerItems](https://github.com/eofitg/Bigger-Items)
+- [BiggerItems](https://github.com/eofitg/Bigger-Items) – `Json`
 
   _This resource pack makes some Bedwars items bigger and adds a few fun little features!_
 
-### Minecraft Plugins
+### Minecraft Plugins – `Java` `Bukkit/Spigot`
 
 - [Hardcore-Mode](https://github.com/eofitg/Hardcore-Mode)
 
@@ -78,7 +78,7 @@ and [TraceIt](https://github.com/eofitg/TraceIt), [SprintMod](https://github.com
 
 ## Fork Projects
 
-### Minecraft
+### Minecraft `Java` `Forge`
 
 - [TabStats](https://github.com/eofitg/TabStats)
    
