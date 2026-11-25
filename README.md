@@ -6,7 +6,7 @@
 
 ### Minecraft Mods – `Java` `Forge/Fabric`
 
-- [Eofitg Vision](https://github.com/eofitg/EofitgVision); [Manual-ZH](https://eofitg.github.io/EofitgVision-Manual/) 
+- [~~Eofitg Vision~~](https://github.com/eofitg/EofitgVision); [Manual-ZH](https://eofitg.github.io/EofitgVision-Manual/) 
 
   _A utility mod for 1.8.9. It was a public repo, but went private thus the only thing you can check is the wiki/manual now._
 
@@ -60,7 +60,9 @@ and [TraceIt](https://github.com/eofitg/TraceIt), [SprintMod](https://github.com
 
   _A Minecraft plugin that prevents players from breaking natural blocks while allowing the removal of blocks placed by players._
 
-- [Cute-Player-Chat](https://github.com/eofitg/Cute-Player-Chat) – _this one is kinda outdated but whatever I'll just put it here_
+- [~~Cute-Player-Chat~~](https://github.com/eofitg/Cute-Player-Chat)
+
+  _this one is kinda outdated but whatever I'll just put it here_
 
 - [Translator](https://github.com/eofitg/Translator)
 
@@ -72,13 +74,13 @@ and [TraceIt](https://github.com/eofitg/TraceIt), [SprintMod](https://github.com
 
 - [ClickAssist](https://github.com/eofitg/ClickAssist) – `Go`
   
-- [Hypixel-Query-Robot](https://github.com/eofitg/Hypixel-Query-Robot) – `ClousX6 & Lua` _such a legacy ikr_
+- [~~Hypixel-Query-Robot~~](https://github.com/eofitg/Hypixel-Query-Robot) – `ClousX6 & Lua` _such a legacy ikr_
 
 - [MilliKey](https://github.com/eofitg/MilliKey) – `C`
 
 ## Fork Projects
 
-### Minecraft `Java` `Forge`
+### Minecraft Mods – `Java` `Forge`
 
 - [TabStats](https://github.com/eofitg/TabStats)
    
