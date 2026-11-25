@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
 title: eofitg, starts here.
 description: (ง •̀▿•́)งᵇ
 markdown: kramdown
